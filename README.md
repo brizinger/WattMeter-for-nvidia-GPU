@@ -8,3 +8,5 @@ Always check the contents of a batch file after downloading!
 In some cases windows may block the batch file so you should go in Properties and check Unblock.
 
 I hope you like it!
+
+Note.2: This script does not measure the power draw of the whole PC but only the GPU and is just a simple replacement of a physical wattmeter. For exact measurement of the PC you are better off using a physical device.
